@@ -1,0 +1,9 @@
+export const TO_NEXT_PAGE = 'slider/TO_NEXT_PAGE';
+export const TO_FIRST_PAGE = 'slider/TO_FIRST_PAGE';
+export const TO_PREV_PAGE = 'slider/TO_PREV_PAGE';
+export const TO_LAST_PAGE = 'slider/TO_LAST_PAGE';
+export const MOUSE_ENTER = 'slider/MOUSE_ENTER';
+export const MOUSE_LEAVE = 'slider/MOUSE_LEAVE';
+export const CREATE_INTERVAL = 'slider/CREATE_INTERVAL';
+export const TO_INDEX_PAGE = 'slider/TO_INDEX_PAGE';
+export const GET_SLIDERS = 'slider/GET_SLIDERS';

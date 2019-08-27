@@ -1,0 +1,4 @@
+export const CHANGE_HOME_DATA = 'home/CHANGE_HOME_DATA';
+export const LOAD_MORE_HOME_ARTICLE = 'home/LOAD_MORE_HOME_ARTICLE';
+export const GET_WRITER_LIST = 'home/GET_WRITER_LIST';
+export const CHANGE_OTHER_WRITER = 'home/CHANGE_OTHER_WRITER';

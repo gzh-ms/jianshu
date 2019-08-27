@@ -1,0 +1,2 @@
+export const CHANGE_ITEM_ACTIVE = 'header/CHANGE_ITEM_ACTIVE';
+export const SHOW_MESSAGE_DROPDOWN = 'header/SHOW_MESSAGE_DROPDOWN';

@@ -1,0 +1,13 @@
+export const SET_RESET_PASSWORD_BY = 'resetPassword/SET_RESET_PASSWORD_BY';
+export const HIDE_TIP = 'resetPassword/HIDE_TIP';
+export const SHOW_USER_TIP = 'resetPassword/SHOW_USER_TIP';
+export const SHOW_PHONE_TIP = 'resetPassword/SHOW_PHONE_TIP';
+export const CHANGE_USER_FLAG = 'resetPassword/CHANGE_USER_FLAG';
+export const CHANGE_PHONE_FLAG = 'resetPassword/CHANGE_PHONE_FLAG';
+export const SHOW_PASSWORD_TIP = 'resetPassword/SHOW_PASSWORD_TIP';
+export const CHANGE_PASSWORD_FLAG = 'resetPassword/CHANGE_PASSWORD_FLAG';
+export const SHOW__PASSWORD_TIP = 'resetPassword/SHOW__PASSWORD_TIP';
+export const CHANGE__PASSWORD_FLAG = 'resetPassword/CHANGE__PASSWORD_FLAG';
+export const GET_CODE = 'resetPassword/GET_CODE';
+export const SHOW_CODE_TIP = 'resetPassword/SHOW_CODE_TIP';
+export const CHANGE_CODE_FLAG = 'resetPassword/CHANGE_CODE_FLAG';

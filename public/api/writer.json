@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "data": [{
+    "id": 1,
+    "imgSrc": "/img/writer/1.webp",
+    "name": "灰土豆",
+    "detail": "写了338.8k字 · 1.8k喜欢"
+  }, {
+    "id": 2,
+    "imgSrc": "/img/writer/2.webp",
+    "name": "吴晓布",
+    "detail": "写了683.3k字 · 21.8k喜欢"
+  }, {
+    "id": 3,
+    "imgSrc": "/img/writer/3.webp",
+    "name": "卢璐说",
+    "detail": "写了1192k字 · 25k喜欢"
+  }, {
+    "id": 4,
+    "imgSrc": "/img/writer/4.webp",
+    "name": "无限猴子",
+    "detail": "写了397.7k字 · 2.1k喜欢"
+  }, {
+    "id": 5,
+    "imgSrc": "/img/writer/5.webp",
+    "name": "简书钻首席小管家",
+    "detail": "写了181.5k字 · 139.4k喜欢"
+  }, {
+    "id": 6,
+    "imgSrc": "/img/writer/6.webp",
+    "name": "梅拾璎",
+    "detail": "写了276.5k字 · 25.7k喜欢"
+  }, {
+    "id": 7,
+    "imgSrc": "/img/writer/7.webp",
+    "name": "小托夫",
+    "detail": "写了323.4k字 · 1.4k喜欢"
+  }, {
+    "id": 8,
+    "imgSrc": "/img/writer/8.webp",
+    "name": "王老师八卦美术史",
+    "detail": "写了117.5k字 · 1.1k喜欢"
+  }, {
+    "id": 9,
+    "imgSrc": "/img/writer/9.webp",
+    "name": "闫泽华",
+    "detail": "写了250.1k字 · 2.8k喜欢"
+  }, {
+    "id": 10,
+    "imgSrc": "/img/writer/10.webp",
+    "name": "茶点故事",
+    "detail": "写了564.8k字 · 14k喜欢"
+  }]
+}

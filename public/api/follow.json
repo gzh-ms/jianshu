@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "data": [{
+    "writerID": 1,
+    "status": "关注"
+  }, {
+    "writerID": 2,
+    "status": "关注"
+  }, {
+    "writerID": 3,
+    "status": "关注"
+  }, {
+    "writerID": 4,
+    "status": "关注"
+  }, {
+    "writerID": 5,
+    "status": "关注"
+  }, {
+    "writerID": 6,
+    "status": "关注"
+  }, {
+    "writerID": 7,
+    "status": "关注"
+  }, {
+    "writerID": 8,
+    "status": "关注"
+  }, {
+    "writerID": 9,
+    "status": "关注"
+  }, {
+    "writerID": 10,
+    "status": "关注"
+  }, {
+    "writerID": 11,
+    "status": "关注"
+  }, {
+    "writerID": 12,
+    "status": "关注"
+  }]
+}

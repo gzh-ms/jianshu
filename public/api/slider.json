@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "data": [{
+    "id": 11,
+    "imgSrc": "/img/slider/slider1.png"
+  }, {
+    "id": 12,
+    "imgSrc": "/img/slider/slider2.jpg"
+  }, {
+    "id": 13,
+    "imgSrc": "/img/slider/slider3.webp"
+  }]
+}

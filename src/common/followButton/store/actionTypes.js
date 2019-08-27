@@ -1,0 +1,2 @@
+export const SET_FOLLOW_STATUS = 'followBtn/SET_FOLLOW_STATUS';
+export const CHANGE_FOLLOW_STATUS = 'followBtn/CHANGE_FOLLOW_STATUS';

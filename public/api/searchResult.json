@@ -1,0 +1,1457 @@
+{
+  "success": true,
+  "data": [
+    {
+      "q": "蚂蚁金服",
+      "page": 1,
+      "type": "note",
+      "total_count": 85274,
+      "per_page": 10,
+      "total_pages": 100,
+      "order_by": "default",
+      "entries": [
+        {
+          "id": 36247538,
+          "title": "独家 | <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>TRaaS技术风险防控平台解密",
+          "slug": "750c26c5d363",
+          "content": "……小<em class='search-result-highlight'>蚂蚁</em>说： 在金融行业，风险防控能力的重要性不言而喻。而<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>可实现高达99.999%的异地多活容灾，千亿级资金秒级实时核对“账、证、实”等能力也让业界有目共睹。 今年位于杭州的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC……科技大会上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正式推出技术风险防控平台TRaaS（Technological Risk-defense as a Service）。经历过无数考验的TRaaS 是把<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>整个分布式架构和相应的……技术风险能力组合在一起的免疫系统，它将高可用和资金安全能力结合 AIOps，使系统实现故障自愈，具有免疫能力。 本文将为大家全面解读<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的技术风险防控平台TRaaS。 与 IaaS、PaaS……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 2,
+          "views_count": 1075,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-11-04T02:17:58.000Z"
+        },
+        {
+          "id": 29325295,
+          "title": "从BAT到ATM，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的逻辑和风险",
+          "slug": "2a7691cac76b",
+          "content": "……近日，互联网双巨头腾讯和阿里巴巴都挺热闹。腾讯大战抖音戏精一堆热度颇高，阿里巴巴这厢最热闹的当属<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>宣布获得140美元的全世界最大单笔私募融资，估值1500亿美元成为非上市公司估值最高……的独角兽；此前互联网女皇玛丽·米克尔还将<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>评价为全球第九大互联网公司。单从估值看，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>已经超越百度，中国互联网格局或将从BAT迭代到ATM，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>到底凭什么？ 一、重申科技公司定位，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em>……<em class='search-result-highlight'>服</em>为什么？ <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的前身是2004年成立的支付宝，成立之初是为了淘宝担保交易服务的，在2013年余额宝推出金融业务成为主要收入来源之后，不管<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>是否愿意承认，它都成了大家潜意识里的金融科技公司……",
+          "user": {
+            "id": 174610,
+            "nickname": "毛琳Michael",
+            "slug": "47df50ccb1bc",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/174610/7dc25cdb-5f45-4259-b3fa-561539ec2cf0.jpeg"
+          },
+          "notebook": {
+            "id": 359594,
+            "name": "毛琳Michael的互联网视界"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 3,
+          "views_count": 997,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-06-11T01:19:21.000Z"
+        },
+        {
+          "id": 29282763,
+          "title": "再度融资140亿美元，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>为何能成为超级独角兽？",
+          "slug": "555e6004ebc4",
+          "content": "……文/孟永辉 外界对于<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的这一轮融资还是有很多期待的。这种期待并非源自人们对于它的吸<em class='search-result-highlight'>金</em>能力的怀疑，更多的表现的是他们对于<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>究竟有多大的期待。果然，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>新一轮的融资并未让外界失望，140……亿美元的融资额度甚至超过了很多此前对于它的新一轮融资的预测。 根据<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>对外宣布的新一轮融资的消息，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>完成了新一轮的融资，融资总额为140亿美元。这一笔融资额度主要包括国内投资者的人民币资金……以及<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>旗下全资子公司——<em class='search-result-highlight'>蚂蚁</em>国际筹集来的国外投资者的美元资金。 根据路透社和互联网女皇报告当中对于<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的估值，这家新生的独角兽公司的估值已经达到了1500亿美元。早知道在2016年4月，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em>……",
+          "user": {
+            "id": 2638393,
+            "nickname": "孟永辉",
+            "slug": "8fa03fe293b0",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/2638393/40d4c977dd34.jpg"
+          },
+          "notebook": {
+            "id": 5454073,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 4,
+          "views_count": 1081,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-06-09T22:49:38.000Z"
+        },
+        {
+          "id": 29242396,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>140亿美元融资完成，1500亿美元估值高还是低了？",
+          "slug": "1d03348078ed",
+          "content": "……发酵多日的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>超大规模融资传言终于尘埃落定。 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>6月8日宣布，完成了最新一笔总金额高达140亿美元的融资，其中包括了人民币资金以及<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>旗下全资子公司<em class='search-result-highlight'>蚂蚁</em>国际筹集的美元资金。除原有股东……<em class='search-result-highlight'>服</em>正在成为一只金融科技的超级独角鲸。从本轮融资规模和相关机构的估算来看，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>估值已超过1500亿美元，与阿里巴巴和腾讯一起成为“ATM”互联网新三巨头。从当前发展来看，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>未来走向公开资本……市场也将创造一个IPO的新记录。 有望打破阿里IPO纪录 用“超级独角兽”来形容<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>已不够贴切，因为它的体量已经比三大超级独角兽TMD（今日头条、美团和滴滴）的估值大了一圈，因此我才称之为“超级独角鲸……",
+          "user": {
+            "id": 707573,
+            "nickname": "罗超频道",
+            "slug": "3048f79e632b",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/707573/41c8ff5da469"
+          },
+          "notebook": {
+            "id": 1437955,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 4,
+          "views_count": 798,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-06-08T17:55:23.000Z"
+        },
+        {
+          "id": 36736728,
+          "title": "新加坡金融科技节 | <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>CTO程立：面向全球开放，与合作伙伴共赢",
+          "slug": "2dded3c456d5",
+          "content": "……小<em class='search-result-highlight'>蚂蚁</em>说：11月13日，在新加坡金融科技节上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>CTO程立分别从TechFin、BASIC战略、SOFAStack全栈分布式体系以及全面开放等方面讲述<em class='search-result-highlight'>蚂蚁</em>金融科技。TechFin是一种“倒立……”思考，它用科技解决金融服务中核心的信用、风控和触达等难点，让金融服务可以惠及更多的人。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>形成了以BASIC为基石的全栈式服务，其中BASIC分别对应Blockchain (区块链)、AI（金融……智能）、Security（安全）、IoT（物联网）和Computing（计算）五大领域。SOFAStack是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>15年技术研发的结晶，主要包括SOFA分布式中间件、OceanBase分布式事务数据库……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 837,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-11-14T06:27:02.000Z"
+        },
+        {
+          "id": 39345134,
+          "title": "马云和他的万亿“长子”<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>",
+          "slug": "3210aa660964",
+          "content": "……文章来自 钛媒体，作者 蔡鹏程，原标题《马云和他的万亿“长子”<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>》，图片来源 原文章配图，如有侵权，请联系删除。更多精彩资讯，请登录众筹之家（ID：zczhijia）www.zczj.com…… “如果银行不改变，我们就改变银行。”马云在2008年第一次说出这句话时，支付宝成立不足四年，用户数量刚刚过亿。 十年过去，2018年6月，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>完成 140亿美元的 C 轮融资，估值逾 1500 亿……美元——这是迄今为止全球最大单笔融资规模纪录。 此役过后，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>估值已经超越百度，仅次于阿里巴巴、腾讯，是国内第三大互联网公司。放眼全球上市科技公司，可与<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>等量齐观的是Netflix、英伟达……",
+          "user": {
+            "id": 4622693,
+            "nickname": "众筹之家",
+            "slug": "ee39e036cdaf",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/4622693/c0748554-00d5-4c16-94e7-5fbad77e5f63"
+          },
+          "notebook": {
+            "id": 9591682,
+            "name": "财经资讯"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 686,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-01-03T07:33:40.000Z"
+        },
+        {
+          "id": 29518170,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>缘何自研Service Mesh？",
+          "slug": "a916c35264fd",
+          "content": "……网架构大会上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>高级技术专家黄挺以<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的自身实践为例，深入解读了Service Mesh。 解决<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>三大难题 “Service Mesh”最早由开发Linkerd的Buoyant公司提出……应用有着复杂的服务拓扑，服务网格负责在这些拓扑中实现请求的可靠传输。在实践中，服务网格通常实现为一组轻量级网络代理，它们与应用程序部署在一起，而对应用程序透明。” 这听起来还是有些抽象，黄挺用<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>…… Financial Architecture）是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>自主研发的金融级分布式中间件，被<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>广泛应用于支付、借贷、信用、基金、保险等全金融场景，支撑<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>平稳度过历次“双11”、“双12”、“新春红包……",
+          "user": {
+            "id": 6081922,
+            "nickname": "麦思博",
+            "slug": "9adce628d9c1",
+            "avatar_url": "http://cdn2.jianshu.io/assets/default_avatar/4-3397163ecdb3855a0a4139c34a695885.jpg"
+          },
+          "notebook": {
+            "id": 26592025,
+            "name": "蚂蚁金服"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 14,
+          "views_count": 1497,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-06-15T02:17:06.000Z"
+        },
+        {
+          "id": 24644317,
+          "title": "【独家】“<em class='search-result-highlight'>蚂蚁</em>上链”：不一样的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>，和它走出的大公司区块链之路 | 甲子光年",
+          "slug": "025bf05c40d9",
+          "content": "……即将在今年3月正式启动区块链加速器计划，小米也在近期发布区块链岗位高薪招募信息…… 在所有跃跃欲试者中，阿里系表现最为强劲。实际上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>早在2015年就成立了区块链小组。据知识产权产业媒体……IPRdaily联合incoPat创新指数研究中心发布的《2017全球区块链企业专利排行榜》，阿里巴巴以49件专利申请总量排名全球第一——而这些专利全部出自<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>。 “2017全球区块链企业专利排行榜”前十位…… 近期，「甲子光年」在杭州独家采访了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的区块链团队。 其负责人张辉（花名“盛楚”）告诉「甲子光年」，区块链技术的核心是“信任的连接器”，而<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>区块链团队的愿景是“打造生产级的信任连接基础设施……",
+          "user": {
+            "id": 7788220,
+            "nickname": "甲子光年",
+            "slug": "0802a60ad14e",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/7788220/1e89f18a-2781-4f13-b2fc-3ad3ec955aba.jpg"
+          },
+          "notebook": {
+            "id": 22812061,
+            "name": "新媒体管家发布"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 1,
+          "views_count": 2277,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-03-02T04:25:09.000Z"
+        },
+        {
+          "id": 34323683,
+          "title": "14年磨一剑，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>全面开放！1600亿美元只是半坡？",
+          "slug": "4aa42530a774",
+          "content": "……从2017年云栖大会开始，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>就有了自己的主场：ATEC大会，从规格来看已是金融科技领域的顶级技术大会，许多金融科技公司和传统金融机构都参与其中，大咖云集。今年的ATEC大会上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>除了按照……惯例展示金融技术和应用，还宣布了一件大事：<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>金融科技正式全面开放，为行业提供完整的数字金融解决方案，这是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>开放战略的分水岭，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正式从一家金融科技公司，进化为金融科技服务平台。 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em>……<em class='search-result-highlight'>服</em>开放了数百个能力和多个解决方案，开放的主体窗口是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>金融科技。<em class='search-result-highlight'>蚂蚁</em>金融科技由原<em class='search-result-highlight'>蚂蚁</em>云升级而来，新版官网（https://www.cloud.alipay.com/）改版后，呈现出了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的科技……",
+          "user": {
+            "id": 707573,
+            "nickname": "罗超频道",
+            "slug": "3048f79e632b",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/707573/41c8ff5da469"
+          },
+          "notebook": {
+            "id": 1437955,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 874,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-09-23T04:50:23.000Z"
+        },
+        {
+          "id": 37839436,
+          "title": "报名 | <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC科技大会 · 上海：数字金融新原力",
+          "slug": "7a1105edba08",
+          "content": "……小<em class='search-result-highlight'>蚂蚁</em>说：2019年1月4日，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC城市峰会将以“数字金融新原力(The New Force of Digital Finance)”为主题，在中国上海举办。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC（Ant…… Technology Exploration Conference）科技大会是由<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>举办的、面向全球合作伙伴与技术专业人群的前沿技术探索大会，致力于通过对先进的前沿技术探索与讨论，为世界带来平等的机会……。过去一年，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC科技大会走过杭州、硅谷、新加坡、伦敦等全球金融科技中心城市与地区，与当地受众分享了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>对金融科技最前沿的洞察。从2019年开始，走遍海外各个城市的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC科技大……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 1180,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-12-05T11:32:20.000Z"
+        }
+      ],
+      "related_users": [
+        {
+          "id": 13446355,
+          "avatar_url": "http://upload.jianshu.io/users/upload_avatars/13446355/b146a4ec-b9c6-4a1d-a59d-c5bd0c16a83b",
+          "nickname": "蚂蚁金服",
+          "slug": "0c7ba7c240e2",
+          "total_wordage": 0,
+          "total_likes_count": 0
+        },
+        {
+          "id": 17511496,
+          "avatar_url": "http://upload.jianshu.io/users/upload_avatars/17511496/77b25e45-f028-49be-a944-3131ea8778b4",
+          "nickname": "蚂蚁金服_a6c8",
+          "slug": "cdaba47e0c41",
+          "total_wordage": 0,
+          "total_likes_count": 0
+        },
+        {
+          "id": 14789228,
+          "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg",
+          "nickname": "蚂蚁金服科技",
+          "slug": "7f1b21e4cf3a",
+          "total_wordage": 297590,
+          "total_likes_count": 18
+        }
+      ],
+      "more_related_users": true,
+      "related_collections": [
+        {
+          "id": 652852,
+          "title": "SOFA",
+          "slug": "bb6c8deb86e1",
+          "image_url": "http://upload.jianshu.io/collections/images/652852/584455.jpeg",
+          "public_notes_count": 19,
+          "likes_count": 132
+        },
+        {
+          "id": 656731,
+          "title": "蚂蚁金服",
+          "slug": "e9cc0d943d5f",
+          "image_url": "http://upload.jianshu.io/collections/images/656731/crop1525441823633.jpg",
+          "public_notes_count": 17,
+          "likes_count": 7
+        }
+      ],
+      "more_related_collections": false
+    },
+    {
+      "q": "蚂蚁金服",
+      "page": 2,
+      "type": "note",
+      "total_count": 85273,
+      "per_page": 10,
+      "total_pages": 100,
+      "order_by": "default",
+      "entries": [
+        {
+          "id": 28846999,
+          "title": "一文读懂丨马云再造新阿里计划，估值1500亿美金超级独角兽<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>养成记",
+          "slug": "42499ed3822b",
+          "content": "……企创网：据路透社报道，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>已完成最新一轮融资，共筹集到100亿美元。路透社援引5名知情人士，这轮融资对<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的估值达1500亿美元。 一些国际主权财富基金和私募股权投资公司加入这轮融资，成为……主要投资者。这些投资者包括新加坡政府投资公司(GIC)和淡马锡控股，以及美国私募股权投资公司华平投资集团。 消息人士表示，筹资金额及投资者阵容已确定，正在进行资金转移。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>拒绝对此置评。 一、融资……“小微<em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>”），小微金融（筹）成为<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的前身。期间完成了由建信投资、人保资本入股的战略融资，具体金额未披露。2014年10月，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正式成立。 2015-05-01 Pre-A轮：获得海尔资本2……",
+          "user": {
+            "id": 1239674,
+            "nickname": "企创网",
+            "slug": "cdfdd7407b36",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/1239674/fad49f81-9935-4981-8918-93e389f4ab65.jpg"
+          },
+          "notebook": {
+            "id": 2542339,
+            "name": "企创网"
+          },
+          "commentable": true,
+          "public_comments_count": 1,
+          "likes_count": 14,
+          "views_count": 1809,
+          "total_rewards_count": 1,
+          "first_shared_at": "2018-05-31T04:07:54.000Z"
+        },
+        {
+          "id": 36508779,
+          "title": "深度 | <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>金融智能技术：更安全，更智能！",
+          "slug": "bd359d1f3d8a",
+          "content": "……小<em class='search-result-highlight'>蚂蚁</em>说：在今年9月20日<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC科技大会的主论坛上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>副CTO胡喜宣布，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的金融科技正式全面开放，为行业提供完整的数字金融解决方案。包括容灾系统在内的多项核心技术和解决方案，如……。根据承载<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>金融科技开放的官网显示，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>全面开放的技术菜单多达数百种，包括金融安全技术、海量金融交易技术，金融风控技术等；行业解决方案则包括数字银行解决方案、数字保险解决方案。今天的这篇文章，小……<em class='search-result-highlight'>蚂蚁</em>将带大家了解：在数字化的浪潮下，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的数据智能，即<em class='search-result-highlight'>蚂蚁</em>金融智能（Ant Intelligence）技术是如何让数据和智能在金融及互联网场景下发挥作用的。目前，这项技术也已全面开放给合作伙伴……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015361,
+            "name": "随笔"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 1,
+          "views_count": 988,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-11-09T06:32:00.000Z"
+        },
+        {
+          "id": 51524668,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>大规模分布式事务实践和开源历程",
+          "slug": "983a0d1ead9c",
+          "content": "……本文整理自<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>技术专家、分布式事务 Seata 发起者之一张森（花名：绍辉）在 GIAC 全球互联网架构大会的分享。详细讲解了在分布式架构演进中，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>面对的跨服务、跨数据库的业务数据一致性…… <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的业务数据库起初是单库单表，但随着业务数据规模的快速发展，数据量越来越大，单库单表逐渐成为瓶颈。所以我们对数据库进行了水平拆分，将原单库单表拆分成数据库分片。 如下图所示，分库分表之后，原来在一……，系统的访问量和业务复杂程度都在快速增长，单系统架构逐渐成为业务发展瓶颈，解决业务系统的高耦合、可伸缩问题的需求越来越强烈。 如下图所示，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>按照面向服务（SOA）的架构的设计原则，将单业务系统拆分……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 1,
+          "views_count": 106,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-07-29T11:12:01.000Z"
+        },
+        {
+          "id": 50656516,
+          "title": "基于<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的平台案例研究分析",
+          "slug": "99b0e26a1125",
+          "content": "……<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>简介 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>官网 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>，又称做<em class='search-result-highlight'>蚂蚁</em>金融服务集团。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>起步于 2004 年成立的支付宝。2014 年 10 月，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正式成立。旗下有支付宝、余额宝、<em class='search-result-highlight'>蚂蚁</em>花呗、芝麻信用等业务板块……，都是与我们生活密切相关的业务。凭借这些产品业务, <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em>服从单一的第三方支付, 发展到横跨支付、理财、信贷、保险、征信等领域。 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>旨在为世界带来普惠金融服务。以“为世界带来更多平等的机会”为使命……、有效的金融服务，小微企业、农民、城镇低收入人群等弱势群体是其重点服务对象，这一概念由联合国在2005年提出。 2017年全年的业绩报告中<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的税前利润达到131.89亿元, 在几大业务线中, 消费……",
+          "user": {
+            "id": 9625930,
+            "nickname": "HAILBucky",
+            "slug": "931a90099eb3",
+            "avatar_url": "http://cdn2.jianshu.io/assets/default_avatar/1-04bbeead395d74921af6a4e8214b4f61.jpg"
+          },
+          "notebook": {
+            "id": 38630981,
+            "name": "平台"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 199,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-07-15T05:06:50.000Z"
+        },
+        {
+          "id": 52813277,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>如何盈利？<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>到底有多赚钱？",
+          "slug": "3715af4c093b",
+          "content": "……本文的主题是，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>有多赚钱，以及靠什么赚钱？ 据阿里巴巴财报披露，今年二季度，阿里巴巴从<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>获得的知识产权及技术服务费收入为16.27亿元人民币（2.37亿美元），而2018年同期为9.1……亿元人民币。 据此测算，二季度<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>税前利润为43.39亿元，环比增长214.65%，同比增长78.78%。 按照阿里巴巴与<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>于2014年签署的协议：<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>每年需向阿里巴巴支付知识产权及技术……服务费，金额相当于其税前利润的37.5%；在条件允许的情况下，阿里巴巴有权入股并持有<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>33%股权，且出让相应的知识产权，上述分润安排则同步终止。 去年2月1日，阿里巴巴宣布，将通过一家中国子公司……",
+          "user": {
+            "id": 16411891,
+            "nickname": "支付工匠",
+            "slug": "0eb4e3bbc862",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/16411891/e83c8e05-5e88-47e3-837e-9a449145884f.jpg"
+          },
+          "notebook": {
+            "id": 34382376,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 1,
+          "views_count": 13,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-08-20T03:53:14.000Z"
+        },
+        {
+          "id": 48878212,
+          "title": "今天想送你一份来自<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的前端学习资料包",
+          "slug": "4626bfc28be7",
+          "content": "……今天，我想送你一份资料包。 这份资料包，每个字都是来自<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的技术专家，大部分内容也有专业编辑进行校对和润色，在保障技术内核的同时保证可读性。 不论是来自<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的 Ant Design 实战教程……！ Ant Design 实战教程 作者：Ant Design（<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>） 大概不需要向任何一个开发者介绍 Ant Design 了吧？毕竟这个项目在 GitHub 上的 star 数已经 40000…… 第一章: 基础知识 前端开发的演变 初始化项目 第一个组件 使用 Ant Design 组件 …… 数据可视化入门教程（beta） 作者：AntV 数据可视化团队 （<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>） AntV 团队来自<em class='search-result-highlight'>蚂蚁</em>……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 212,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-06-17T08:06:44.000Z"
+        },
+        {
+          "id": 43273478,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>bPaaS究竟是什么？",
+          "slug": "f7578bc38206",
+          "content": "……去年9月，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>在杭州云栖ATEC发布了分布式金融核心套件bPaaS（ Business Platform As a Service ），对外开放自身沉淀的“产品合约”、“资产交换”、“资产核心……”、“会计核算”、“计价” 等金融核心组件，而这款号称源自于<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>十余年业务和技术积累的bPaaS，也被视为是2018年初<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>决定将分布式金融核心能力对外输出后，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>推出的第一款重量级的产品……。 今年3月，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>与南京润和软件联合推出基于分布式金融核心套件bPaaS能力的“新一代分布式金融业务核心平台”。这也意味着<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技开放进入新阶段，不仅有自主研发的技术输出，也推出了生态互集成模式……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 838,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-03-18T07:45:07.000Z"
+        },
+        {
+          "id": 22384062,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>首席架构师：<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>在区块链技术上的实践",
+          "slug": "bb9690d8626f",
+          "content": "……摘要：本文整理自8月9日云栖大会-北京峰会的金融专场上<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>首席架构师童玲分享的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>在区块链等新技术应用上的实践经验。本文将分享区块链的技术背景，原理以及区块链的与普惠金融的关系以及<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>在……<em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>对这些技术的理解和感悟。 金融生活背后的技术元素 这张大图是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正在打造的金融生活平台，我们总结出了打造这样的金融生活平台需要的技术核心能力。经过了12年的发展，支付宝已经从支付工具发展成为……技术就是IoT--物联网；这些都是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正在探讨和推进的新技术。 围绕着金融生活场景，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>希望为客户打造既贴心又安全的服务体验。所谓贴心就是真正懂客户的，个性化的，有人情味和温度的体验，这后面……",
+          "user": {
+            "id": 2509688,
+            "nickname": "阿里云云栖社区",
+            "slug": "12532d36e4da",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/2509688/835abb69-1f97-4d23-93c8-07ab122d124e.jpg"
+          },
+          "notebook": {
+            "id": 5185065,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 39,
+          "views_count": 5449,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-01-11T05:14:43.000Z"
+        },
+        {
+          "id": 34284112,
+          "title": "逛了一圈ATEC大会，发现1600亿美金的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>可能打了8折",
+          "slug": "f6d6ac81e66a",
+          "content": "……<em class='search-result-highlight'>服</em>离上市应该不远了。 <em class='search-result-highlight'>蚂蚁</em>到底值多钱？ 在杭州云栖大会期间，包括董事长井贤栋在内的高管们，集体站台<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC技术探索大会，罕见展示了多项关键数据。 ATEC集体亮相，几乎算得上<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>上市之前的……路演演练了。 一 给高科技公司估值，有几十种方法论，比如简单粗暴的的类比估值法，着眼未来的市梦率，现实主义的市盈率，互联网公司常用的用户市值法等等。 类比估值因为简单粗暴，使用率很高。但对于<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>……来说，类比估值法并不恰当——在资本市场，并没有一个类<em class='search-result-highlight'>蚂蚁</em>的合适样本。 因此，与其生拉硬扯的横向类比，倒不如纵向复盘<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>业务增长，根据<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的前期估值，然后再基于其业绩增幅以及未来潜力，对估值进行……",
+          "user": {
+            "id": 11800236,
+            "nickname": "财经故事会v",
+            "slug": "052f28e7e585",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/11800236/54b61fe1-6969-40ee-8d93-6f9f1d75a86b"
+          },
+          "notebook": {
+            "id": 24709622,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 953,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-09-22T01:14:00.000Z"
+        },
+        {
+          "id": 30802456,
+          "title": "八篇论文引爆ICML，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>技术亮相国际机器学习大会",
+          "slug": "5f224076acf5",
+          "content": "……力量屡屡出席行业顶级会议，这也表明越来越多的顶级科技公司愿意在前沿学术学术研究上投入资源。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>也是其中之一。 今年，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>以独立身份参加ICML，为大会奉献了八篇论文，本文将给大家带来分享。 引言……惊讶，如佐治亚理工学院终身副教授、机器学习中心副主任宋乐署名的就有8篇论文。 而宋乐教授的另外一个身份，就是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>人工智能部研究员。 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>成为ICML 上“中国力量”的代表之一，为大会奉献了8篇……论文。其中，六篇含<em class='search-result-highlight'>金</em>量十足的Oral Paper，成为议程上研讨会的主角，接受与会专家的热烈讨论。 这些论文几乎每篇署名作者都有世界级学术专家。比如人工智能教父，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科学智囊团主席迈克尔·欧文·乔丹……",
+          "user": {
+            "id": 2509688,
+            "nickname": "阿里云云栖社区",
+            "slug": "12532d36e4da",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/2509688/835abb69-1f97-4d23-93c8-07ab122d124e.jpg"
+          },
+          "notebook": {
+            "id": 5185065,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 811,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-07-13T05:38:40.000Z"
+        }
+      ],
+      "related_users": [],
+      "more_related_users": null,
+      "related_collections": [],
+      "more_related_collections": null
+    },
+    {
+      "q": "蚂蚁金服",
+      "page": 3,
+      "type": "note",
+      "total_count": 85273,
+      "per_page": 10,
+      "total_pages": 100,
+      "order_by": "default",
+      "entries": [
+        {
+          "id": 36689595,
+          "title": "三季度亏损3.52亿美元，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>还能撑起1600亿美元估值么？",
+          "slug": "1d120825c5e1",
+          "content": "……刚刚过去的“双11”购物狂欢节，“天猫”全天成交额达2135亿元，同比增长26.93%，再创新记录。 在这份成绩单的背后，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的消费金融产品——“花呗”发挥了重要作用。 消<em class='search-result-highlight'>金</em>界在“双11”当天……体验发现，“天猫”售卖的商品中，相当多支持“花呗”的3期免息分期，还有一些支持6期免息分期。 乍看之下，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的各项业务急速发展，但阿里巴巴集团日前发布的2018年Q3季度财报却显示，今年第三季度……，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>亏损3.52亿美元。 这到底是怎么回事呢？ 一个很重要的原因是，受现金贷监管政策的影响，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的“花呗”和“借呗”产品，在2018年的发展相对缓慢。 以融资额为例，2018年上半年，<em class='search-result-highlight'>蚂蚁</em>“花呗……",
+          "user": {
+            "id": 13932558,
+            "nickname": "消<em class='search-result-highlight'>金</em>界",
+            "slug": "1ed26d1c0265",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/13932558/33c44b1e-f07a-4c23-886c-0c4848b890e4.jpg"
+          },
+          "notebook": {
+            "id": 29215514,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 942,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-11-13T08:22:57.000Z"
+        },
+        {
+          "id": 47691351,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>副总裁漆远：<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>把最好的技术，种到「土」里",
+          "slug": "7d12f1ae4ccd",
+          "content": "……摘要：如何在防范风险的情况下，帮助更多的人？<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>给出了「技术」答案。 湖南平江一座土砖垒成的一层平房里，50 岁农民艾煌兮迎来了生命中的第二个「大件」物品——一台三轮车，另外一件是台 19 寸……老式电视机。这辆价值 1.7 万的车占了两年中他向<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>借款 3 万元的一大半，不过，他靠三轮车跑运输，不仅做到了按时还款，还改善了 80 岁母亲的生活。 在 BMW · 极客公园 Rebuild…… 2019 科技商业峰会上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>副总裁兼首席数据科学家漆远讲了这样一个故事，一下子把科技带到了「土」里。在中国绝大多数农户因为没有信用数据，比如银行流水、资产证明、抵押物等，很难获得金融服务，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>……",
+          "user": {
+            "id": 11557458,
+            "nickname": "极客公园官方",
+            "slug": "a96082999058",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/11557458/780a77df-41dd-4bcb-8c9a-d73e32532418.jpg"
+          },
+          "notebook": {
+            "id": 24197922,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 472,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-05-28T07:26:40.000Z"
+        },
+        {
+          "id": 28099418,
+          "title": "2018-05-15<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>估值不断上调 IPO之路还有多远",
+          "slug": "6b4e35a5f0b6",
+          "content": "……<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>频传上市 5月10日，有外媒报道称<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正在完成接近100亿美元的股权融资，并表示<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>希望从淡马锡控股牵头的投资者手中获得至少100亿美元，届时它的估值预计达到1500亿美元。尽管外界……媒体一度揣度其是为接下来的IPO做准备，但<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>始终表示不予置评。 事实上，自今年2月以来，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>便动作不断，而这也是外界传言的根本。 2月1日晚间，阿里巴巴宣布通过一家中国子公司入股收购<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>……33%的股权。2014年8月，阿里巴巴发布的招股书中公开披露，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>每年需向阿里巴巴支付知识产权及技术服务费，金额相当于<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>税前利润的37.5%;此次股权收购完成后，相应的知识产权将同步转让给……",
+          "user": {
+            "id": 9064916,
+            "nickname": "李雪华讲电商",
+            "slug": "8c3ae93574aa",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/9064916/efa63d18-acd0-406d-9e2e-09eb3bf68b2a.jpg"
+          },
+          "notebook": {
+            "id": 18917715,
+            "name": "每日电商资讯"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 1,
+          "views_count": 763,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-05-15T05:39:35.000Z"
+        },
+        {
+          "id": 5338557,
+          "title": "终有一天，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>必然成为中国开疆扩土的钢刀利刃",
+          "slug": "bc09491d2d83",
+          "content": "……◆◆◆   4月26日，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正式对外宣布，公司已于日前完成B轮融资，融资额为45亿美元（约292亿人民币）。这也是全球互联网行业迄今为止最大的单笔私募融资，意味着互联网金融的中国模式已经领先全球……。此轮融资完成后，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的估值已经达到600亿美元（约3895亿人民币）。 追赶百度：百度当下市值675亿美元，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>与之已非常接近； 紧贴全球最大独角兽：据《财富》杂志发布的2016全球独角兽榜……，目前全球最大的未上市独角兽公司是UBER，其估值约为625亿美元，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>距离UBER仅有一步之遥。 碾压京东：作为我们另一个互联网金融帝国，京东金融估值仅约70亿美元，不足<em class='search-result-highlight'>蚂蚁</em>八分之一！ 实际上……",
+          "user": {
+            "id": 2414857,
+            "nickname": "3a6b34e97af4",
+            "slug": "3a6b34e97af4",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/2414857/f71fc8803eb2"
+          },
+          "notebook": {
+            "id": 4987138,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 3,
+          "views_count": 10320,
+          "total_rewards_count": 0,
+          "first_shared_at": "2016-08-18T09:00:37.000Z"
+        },
+        {
+          "id": 44246122,
+          "title": "我在<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>技术风险部做“医生”",
+          "slug": "c3bdaa990a7d",
+          "content": "……有一种误解流传甚广，认为技术风险工程师是一个“背锅”的岗位，干着脏活累活……事实真的如此吗？<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>技术风险部的孝泰同学以他的亲身经历来“辟谣”，并广发英雄帖——<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>春季校招启动，欢迎同学们加入……技术风险部感受不一样的风景，毕竟，做好几万台服务器的发布这种事儿还是非常牛x的。 文/图 孝泰 前言 毕业进入<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>到现在正好两年，阿里有句老话“一年香，三年陈，五年醇”，现在还在“香”“陈”之间……岗位，要慎重，我顿时心头一紧。其实来了<em class='search-result-highlight'>蚂蚁</em>之后，我才发现 SRE 也并没有老师说得那么夸张，时至今日在招聘的时候我还经常跟人解释什么是 SRE，以及 SRE（原意为站点可靠性工程师，在<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>又有了更……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 965,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-04-02T07:22:35.000Z"
+        },
+        {
+          "id": 49131605,
+          "title": "一文了解<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>今年KubeCon全部重磅分享",
+          "slug": "08bd812bd6a9",
+          "content": "……6 月 24 日，国内云原生领域最重要的会议即将来袭！KubeCon + CloudNativeCon + Open Source Summit China 2019 将在上海召开，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>此次也会……重度参与，由多名技术专家进行分享并组织 workshop，为参会者献上技术的饕餮盛宴。 本次大会上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>将会重点分享 Kubernetes 集群的管理、深度学习任务在 Kubernetes 上的大……规模部署和调优、互联网金融、安全容器等前沿课题。从 2016 年起，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>开始深度使用 Kubernetes，并作为最终用户案例被 CNCF 官方推荐： 目前，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>不仅在围绕 CNCF 的云原生……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 314,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-06-21T05:15:18.000Z"
+        },
+        {
+          "id": 49353608,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正式成为CNCF云原生计算基金会黄金会员",
+          "slug": "a2fd96461d05",
+          "content": "……2019年 6 月 25 日，全球知名开源组织云原生计算基金会 CNCF 宣布，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正式成为 CNCF 黄金会员，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>表示将持续加大对开源项目的支持，包括 Kubernetes……，ServiceMesh，Serverless，安全容器等方向，并发挥自己的力量。 创办于 2014 年的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>集团，已经服务超过 10 亿用户，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>加入 CNCF，也将促进更多希望使用云计算和创新技术的公司……拥抱云原生。 CNCF 执行董事 Dan Kohn 表示，CNCF 非常欢迎<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的加入，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>大规模的使用 Kubernetes 集群来构建其金融服务，是一个在中国拥抱云原生热潮中很好的案例……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 300,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-06-25T02:38:46.000Z"
+        },
+        {
+          "id": 42940305,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>备战科创板，全球最大的独角兽是怎样炼成的？",
+          "slug": "75a087914d35",
+          "content": "……近日，各大媒体频繁爆出<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正在备战科创板的消息。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>也随即做出了回应，表示一直在密切关注科创板，但关注不代表就在筹备，目前并没有上市时间表。 不过，麦田财经（ID：maitiannews……）认为：“没有上市时间表”的说法很可能只是杜绝媒体刨根问底地发问，而“密切关注”才真实的表现出了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>对待上市的态度。 事实上，这已经不是第一次传出<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>资本化的消息了。早在2015年7月，资本市场就……传出了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>准备登陆“战略新兴板”并成为首批挂牌企业的消息，但这些各种版本的上市安排，最终都无一获得证实。 2018年6月，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>宣布完成新一轮140亿美元的融资后，估值高达1500亿美元。随后……",
+          "user": {
+            "id": 13638809,
+            "nickname": "麦田财经",
+            "slug": "090f9a01c295",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/13638809/feb585b9-ed84-4573-9d50-4a32daaf8915.png"
+          },
+          "notebook": {
+            "id": 28592974,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 1017,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-03-14T11:57:58.000Z"
+        },
+        {
+          "id": 36543351,
+          "title": "区块链行业现在很冷？<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>这则消息算是一股暖流",
+          "slug": "04ee43560956",
+          "content": "……在宏观经济整体不是很好的今天，区块链行业来到了十字路口。今天一个区块链媒体的创始人甚至在朋友圈说：“行业现在很冷”，不过，世界互联网大会传来的这一消息对区块链行业而言倒是好消息：<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>区块链应用……平台入选世界互联网领先科技成果。 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>区块链获世界认可 2016年，乌镇世界互联网大会首次引入了“世界互联网领先科技成果”评选，旨在展现全球互联网界最新研究成果，搭建全方位的交流平台，能够入选的项目……，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>区块链应用平台是今年入选的唯一一个与区块链技术有关的项目，足见<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>在区块链技术上的地位。 今年世界互联网大会首次设置了“世界互联网领先科技成果”的现场发布环节，足见组委会对这一评选更加重视……",
+          "user": {
+            "id": 707573,
+            "nickname": "罗超频道",
+            "slug": "3048f79e632b",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/707573/41c8ff5da469"
+          },
+          "notebook": {
+            "id": 1437955,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 6,
+          "views_count": 945,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-11-10T02:14:16.000Z"
+        },
+        {
+          "id": 39411545,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC城市峰会上海举行，三大发布迎接金融科技2019",
+          "slug": "73049fb337e4",
+          "content": "……2019年1月4日，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC城市峰会以“数字金融新原力（The New Force of Digital Finance）”为主题在上海举办。稠州银行副行长程杰、<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>副总裁刘伟光、<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em>……<em class='search-result-highlight'>服</em>金融科技产品技术总监杨冰、<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>创新科技部资深总监李杰力等出席本场峰会并发表主题演讲。 本次大会，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>带来了2019金融科技趋势预言、前沿技术产品以及生态服务能力三大方面的发布，释放数字金融新……原力。 会上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>联合20家银行、保险、基金等金融机构，共同发布“2019金融科技趋势预测”。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科学家，中国农业银行、华夏银行、中国外汇交易中心、光大科技、中国人寿养老保险、博时基金等<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em>……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 906,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-01-04T08:44:19.000Z"
+        }
+      ],
+      "related_users": [],
+      "more_related_users": null,
+      "related_collections": [],
+      "more_related_collections": null
+    },
+    {
+      "q": "蚂蚁金服",
+      "page": 4,
+      "type": "note",
+      "total_count": 85273,
+      "per_page": 10,
+      "total_pages": 100,
+      "order_by": "default",
+      "entries": [
+        {
+          "id": 5433621,
+          "title": "阿里巴巴控股的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>IPO概念股遭爆炒",
+          "slug": "e0f720388964",
+          "content": "……“<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>概念股”作为一个新概念，成为这两天市场炒作的热点。健康元、合肥城建、海泰发展等都成为当下不温不火行情中的“小黑马”。 “<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>概念股”的崛起，得益于这样一则消息：阿里巴巴控股的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>……集团正在谋求上海主板上市，这可能是2010年以来国内市场最大规模的IPO。 显然，对于这场“资本盛宴”，A股市场已经开始提前“狂欢”。 未上市已融资45亿美元 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的IPO，将是一场声势浩大的资本……运作。今年4月26日，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>完成B轮融资，融资额为45亿美元，估值600亿美元。这是全球互联网行业迄今为止最大的单笔私募融资。 尽管<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的融资金额和估值都是按“美元”计算的，但其实，参与融资的股东……",
+          "user": {
+            "id": 2478085,
+            "nickname": "大象IPO",
+            "slug": "23d73e1d1728",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/2478085/26b7f43e-711c-460a-939a-0378112afef0.png"
+          },
+          "notebook": {
+            "id": 5119576,
+            "name": "IPO观察"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 11359,
+          "total_rewards_count": 0,
+          "first_shared_at": "2016-08-24T06:35:48.000Z"
+        },
+        {
+          "id": 37558029,
+          "title": "“胡晓明去哪儿”答案揭晓：出任<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>总裁，堪称“花呗”之父",
+          "slug": "e1cd663432bd",
+          "content": "……11月29日，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>宣布组织架构升级：阿里云原总裁胡晓明（花名孙权）出任<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>集团总裁，向董事长兼CEO井贤栋汇报。 至此，外界此前一直在猜测的“胡晓明去哪儿”答案揭晓。 胡晓明于2005年加入……阿里巴巴，曾担任<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的首席风险官。据媒体报道，由于其既懂金融又懂技术，早年追随他的多位下属都对他评价极高，表示胡晓明的回归对<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>是好事，值得期待。 在入职阿里前，胡晓明曾任职于中国建设银行和……和操盘的。 当时<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>还叫小微金融服务集团，全部集团4000多人，只有280人做阿里小贷的业务。 在胡晓明的带领下，2013年，阿里小贷与支付宝合并，当年放贷规模达1000亿元。次年，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正式……",
+          "user": {
+            "id": 13932558,
+            "nickname": "消<em class='search-result-highlight'>金</em>界",
+            "slug": "1ed26d1c0265",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/13932558/33c44b1e-f07a-4c23-886c-0c4848b890e4.jpg"
+          },
+          "notebook": {
+            "id": 29215514,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 2364,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-11-30T03:41:28.000Z"
+        },
+        {
+          "id": 33559071,
+          "title": "马云一年后交棒阿里，他实控的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>也会送人么？",
+          "slug": "31e1ffced7c2",
+          "content": "……变更，似乎也是马云在为自己“急流勇退”铺路。 比如说，今年8月29日，支付宝的法人便由马云变更为了叶郁青。 消<em class='search-result-highlight'>金</em>界注意到，得益于巧妙的股权安排，就算马云卸任阿里集团的董事局主席，他将依然保有对<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的……控制权——而且花费不超过1010万元。 下图是一张广为流传的图片，清晰显示了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的股权构成。马云100%持有杭州云柏公司的股权，这家公司的注册资本为1010万元；而杭州云柏又是杭州君瀚和杭州君澳……两家公司的普通合伙人（GP），后两家公司合计持有<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>76.43%的股份。 工商信息显示，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的注册资本是157.61亿元，其中杭州君瀚和杭州君澳一共认缴出资114.64亿元。 阿里巴巴之前提交给……",
+          "user": {
+            "id": 13932558,
+            "nickname": "消<em class='search-result-highlight'>金</em>界",
+            "slug": "1ed26d1c0265",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/13932558/33c44b1e-f07a-4c23-886c-0c4848b890e4.jpg"
+          },
+          "notebook": {
+            "id": 29215514,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 1,
+          "views_count": 627,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-09-10T06:06:12.000Z"
+        },
+        {
+          "id": 44374402,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>战略入股润和软件，竟然是为了它？",
+          "slug": "1c960af99154",
+          "content": "……文/科技茱比莉 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>战略入股润和软件这件事其实是 2018 年 6 月的事了。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>专注金融科技，润和软件 60%以上业务都与金融信息化相关，正向推导合情合理，而 2019 年 3 月双方首次……高调举行发布会，宣布共建“新一代分布式金融业务核心平台”，才更一步明确了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>战略入股润和关键契合点——<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em> bPaaS。 那么，这个在金融业界还略显陌生的平台 bPaaS 到底是什么……？ bPaaS 的起源 bPaaS（ Business Platform As a Service ），就是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的分布式金融核心套件，也是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>和润和软件共建“新一代分布式金融业务核心平台”的基础，它位于……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 920,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-04-04T05:56:41.000Z"
+        },
+        {
+          "id": 16840528,
+          "title": "解析<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的股权结构，马云如何用3010万控制估值3900亿的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>？",
+          "slug": "9cd2b3bc00ac",
+          "content": "……2016年4月26日，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>正式对外宣布，公司完成B轮高达45亿美金的融资，成为全球互联网行业迄今为止数额最大的单笔融资。至此，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的总市值高达600亿美元，约合人民币3900亿元，在A股中……几乎接近于交通银行。令人吃惊是马云仅仅花了3010万元就控制了这家巨无霸公司。 马云是如何做到以小驭大的，我们先来看<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的股东构成图 也没有马云 再来看看君瀚的合伙人 终于看到马云出资2000万占2…….17%，却只是有限合伙人。但君澳和君瀚的普通合伙人为杭州云铂投资咨询有限公司，而这家公司的唯一法定代表人正是马云。 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的两大股东为，杭州君澳投资有限合伙企业和杭州君瀚投资有限合伙企业（马云出资……",
+          "user": {
+            "id": 2782083,
+            "nickname": "罗贤龙",
+            "slug": "2022b8421a44",
+            "avatar_url": "http://cdn2.jianshu.io/assets/default_avatar/11-4d7c6ca89f439111aff57b23be1c73ba.jpg"
+          },
+          "notebook": {
+            "id": 13864547,
+            "name": "文章收录"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 1,
+          "views_count": 7453,
+          "total_rewards_count": 0,
+          "first_shared_at": "2017-09-08T08:46:33.000Z"
+        },
+        {
+          "id": 9971862,
+          "title": "马云用1.22%的股份控制<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的股权设计",
+          "slug": "5d2405315a19",
+          "content": "……2014年转赴美国纽交所上市。 由于阿里巴巴集团在境外注册，竹子无法查到准确资料，不想用道听途说误导大家，这里不对阿里的股权展开讨论。股权道（微信公众号：chye1888）只做靠谱的事，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>和支付宝……在境内注册，可查到相关资料，本文就<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>和支付宝的相关情况进行分析。 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的介绍显示，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>起步于2004年成立的支付宝。 2016年10月的报道显示，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>估值超过750亿美元（5000亿……人民币以上）。 一、<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的股权架构 由于文章被大量抄袭，改成这个带水印的图 为方便大家理解制作以下简图 1.<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>76.4294%的股份由2个员工持股平台持有，另23.5807%的股份分散于社保……",
+          "user": {
+            "id": 4034133,
+            "nickname": "竹子_股权道",
+            "slug": "f5753ee84987",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/4034133/15b90b81-27ae-41aa-8b54-8d845f625c6b.jpg"
+          },
+          "notebook": {
+            "id": 8360028,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 2,
+          "views_count": 11843,
+          "total_rewards_count": 0,
+          "first_shared_at": "2017-03-09T11:28:44.000Z"
+        },
+        {
+          "id": 50500583,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>资深总监韩鸿源：像使用集中式数据库一样使用OceanBase分布式数据库",
+          "slug": "5bd6238bb3fd",
+          "content": "……2019年7月10日，在 中国互联网大会数字金融发展论坛上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>OceanBase商业化资深总监 韩鸿源（老邯）发表主题演讲，分享了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>分布式架构的核心技术能力，以及以OceanBase数据……库为代表的分布式产品的最佳业务实践。 很多人对<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的了解还仅仅停留在支付宝，其实今天的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>已经逐步成长为大型的金融集团，覆盖了很多范围的业务，这些业务中不仅包括超过8.7亿实名注册用户，日活2……亿多的支付宝APP，还包括服务亿级免押业务的芝麻信用，以及累积发放超过17000亿贷款已全面上云的网商银行等等。 所有这些业务的后台实际上是基于<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的一整套技术能力，通过分布式架构和分布式产品有效……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 245,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-07-12T08:22:40.000Z"
+        },
+        {
+          "id": 18186743,
+          "title": "累计融资超过千亿的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>，这些年都投了哪些公司？",
+          "slug": "2f4d69f50fce",
+          "content": "……。最后还是马云笑到了最后，随着美国股市在北京时间晚间开盘、阿里巴巴股价上涨，而马云超越马化腾，重新成为中国第一富豪。这些中国的富豪都有一个共同性，都在做金融。 相信大部分人都有对<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>并不陌生，它旗下……的支付宝几乎每天在生活中都会用到。并且在今年7月的中国互联网金融领军企业百强榜，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>独占鳌头，无疑是互联网金融行业的领航者。 根据SexyVC观察资料显示，15年7月，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>完成了120亿元人民……币的A轮融资，估值达450亿美元。而仅在八个月后，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>进行了45亿美元的B轮融资，其估值上涨三分之一，高达600亿美元。作为一个互联网金融公司，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>没有局限于被融资来支持业务，而是积极通过投资……",
+          "user": {
+            "id": 6519099,
+            "nickname": "SexyVC",
+            "slug": "175a8797d8c5",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/6519099/804b9a95-f18e-4871-a53d-0909cedc5215.jpg"
+          },
+          "notebook": {
+            "id": 13575477,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 1,
+          "likes_count": 8,
+          "views_count": 9076,
+          "total_rewards_count": 0,
+          "first_shared_at": "2017-10-11T09:09:56.000Z"
+        },
+        {
+          "id": 31074820,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>估值超万亿，马云要想成为世界首富，还要靠“云”",
+          "slug": "7193d3f19d12",
+          "content": "……为2018年6月30日。 上一次的发布是在2017年12月21日，时隔半年以后，2排名前十的企业与上一期一样。 但最让人吃惊的是，排名第一的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的估值在半年时间里飙升了6000亿，上升到1万亿……第七。 万亿估值，在A股市场，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>已经力压贵州茅台。 而若放在全球市场来看，据全球企业市值100强完整榜单（2018年1月版），中国茅台排名第55位，也就是说，依照<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>万亿估值，在全球企业市值……排行榜中，也将进入前60名。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>体量跻身全球十大银行。 余额宝2013年6月成立， 2018年6月<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>宣布新一轮融资，融资总金额140亿美元。 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的估值超过1500亿美金，成为全球最大的……",
+          "user": {
+            "id": 11747081,
+            "nickname": "融中财经",
+            "slug": "42e8bdf2c8ee",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/11747081/36d37171-ccab-4fc5-b4a8-f8fd89e413b9.jpg"
+          },
+          "notebook": {
+            "id": 24598890,
+            "name": "融中财经"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 959,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-07-19T03:54:51.000Z"
+        },
+        {
+          "id": 19251911,
+          "title": "马云为什么通过这样复杂的手段来控制<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>？",
+          "slug": "86456528bba0",
+          "content": "……马云于马来西亚出席活动时指出，未来12至18个月都不考虑<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>上市计划，亦未有上市地点偏好。 因包容性融资及金融科技仍有很大机会，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>一年半或更短时间内并无上市打算，将专注于捕捉金融科技重大……上涨，也让为平台交易提供第三方支付功能的“支付宝”受益。 而作为支付宝母公司的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>，也的确是“不差钱”。 此前，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>多次被传出要上市的消息。但<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>国际事业部总裁Douglas Feagin……于近日回应称：“（IPO）并无必要，至少不是优先要做的事”。 2015年7月，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>对外宣布完成A轮近18.5亿美元（约120亿元人民币）的融资，全国社保基金、国开金融、国内大型保险公司等在内的8家……",
+          "user": {
+            "id": 8774231,
+            "nickname": "李梅曹强",
+            "slug": "e9bbcc06fe66",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/8774231/a0f62a6a-94a9-4621-adac-084effb32e1d"
+          },
+          "notebook": {
+            "id": 18313606,
+            "name": "未命名文集"
+          },
+          "commentable": true,
+          "public_comments_count": 1,
+          "likes_count": 1,
+          "views_count": 4341,
+          "total_rewards_count": 0,
+          "first_shared_at": "2017-11-04T12:09:30.000Z"
+        }
+      ],
+      "related_users": [],
+      "more_related_users": null,
+      "related_collections": [],
+      "more_related_collections": null
+    },
+    {
+      "q": "蚂蚁金服",
+      "page": 5,
+      "type": "note",
+      "total_count": 85273,
+      "per_page": 10,
+      "total_pages": 100,
+      "order_by": "default",
+      "entries": [
+        {
+          "id": 41866330,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>数据质量治理架构与实践",
+          "slug": "b9f362842e49",
+          "content": "……摘要：以“数字金融新原力(The New Force of Digital Finance)”为主题，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC城市峰会于2019年1月4日上海如期举办。金融智能专场分论坛上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>数据平台……部高级数据技术专家李俊华做了主题为《<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>数据治理之数据质量治理实践》的精彩分享。 演讲中，李俊华介绍了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>数据架构体系的免疫系统——数据质量治理体系，此外还着重介绍了数据质量实施的相关内容……，以及<em class='search-result-highlight'>蚂蚁</em>的数据质量治理实践与所面对的实际挑战。 本文将主要围绕以下三部分进行分享： 数据治理概况 数据质量治理挑战 数据质量治理实践 一、数据治理概况 近年来，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>不断在数据架构上进行升级改造，其目……",
+          "user": {
+            "id": 15779393,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>技术",
+            "slug": "fd490e4f570d",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/15779393/0acd49d4-d43f-4151-879c-6d3e6fb87acf.png"
+          },
+          "notebook": {
+            "id": 33096947,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 1,
+          "views_count": 947,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-02-23T11:56:14.000Z"
+        },
+        {
+          "id": 29231091,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>融资140亿美元，估值1500亿美元，怎么给没有上市互联网公司估值？",
+          "slug": "821382765203",
+          "content": "……2013年6月，余额宝横空出世，开启了中国的互联网金融元年。 5年后，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>今日宣布新一轮融资，融资总金额140亿美元，堪称史诗级的私募融资。 此次融资过后，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的估值超过1500亿美金，成为……全球最大的科技公司之一。 比融资本身更具里程碑意义的是，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>超越了它曾开创的那个时代，全面迈向新的科技时代。 本文试图探讨的是：如何理解<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的最新估值？在估值背后，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>在过去两年做对了什么……？为什么作为科技公司的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>更值得期待？ 1 如何理解<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的最新估值 我们将从三个视角去分析<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的估值，以衡量其合理性。 1、从最常用的市盈率视角，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的估值符合科技巨头标准。 根据安信……",
+          "user": {
+            "id": 5401040,
+            "nickname": "黑马财经圈",
+            "slug": "fb0946a23a3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/5401040/f2fe2883-4de8-48a0-a5d4-b477b6fc74e0"
+          },
+          "notebook": {
+            "id": 11220321,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 1057,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-06-08T12:37:07.000Z"
+        },
+        {
+          "id": 42908924,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>总监杨冰：金融科技公司为什么要拥抱开源？ | 穿山甲专访",
+          "slug": "cfc478fb9665",
+          "content": "……我们选择将 SOFA 中间件框架逐步开源出来，在贡献给社区的同时，也期待社区、合作伙伴甚至客户，都能够一起参与共建，形成行业标准和最佳实践。-- <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>总监杨冰 引言 最近，我听到了一个消息，<em class='search-result-highlight'>蚂蚁</em>……则是服务治理的基础。在这两块开源后，SOFA 将成为一套真正完备的分布式解决方案。 作为开源人士，我对此消息深感兴趣，因此联系到了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>中间件团队的杨冰总监，就此消息向他求证。机缘凑巧之下，杨冰花费……动作和力度颇有感受；意外的是，这种力度还是超乎了我的想象。这其中包括阿里巴巴集团和<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>等都贡献了相当可观的开源项目。 因此，这次遇到杨冰时，我就开源方面和他深入聊了几句，想了解一下<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>是如何思考……",
+          "user": {
+            "id": 10168631,
+            "nickname": "金融级分布式架构",
+            "slug": "37ac9d609353",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/10168631/c3b1aea0-e1c1-4315-9ccf-27b80095ab5a.jpg"
+          },
+          "notebook": {
+            "id": 21277496,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 2,
+          "likes_count": 4,
+          "views_count": 953,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-03-12T12:36:14.000Z"
+        },
+        {
+          "id": 41587526,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>总监杨冰：金融科技公司为什么要拥抱开源？",
+          "slug": "81ba56b1d104",
+          "content": "……引言 最近，我听到了一个消息，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>将会开源 SOFA最核心的两个组件——分布式事务框架和服务注册中心。 熟悉中间件的朋友们都知道，这两个组件都是针对当前最火的微服务架构。其中，分布式事物框架是……解决数据一致性问题的关键。服务注册中心则是服务治理的基础。在这两块开源后，SOFA 将成为一套真正完备的分布式解决方案。 作为开源人士，我对此消息深感兴趣，因此联系到了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>中间件团队的杨冰总监，就此……的是，业界一直对阿里在开源方面的动作和力度颇有感受；意外的是，这种力度还是超乎了我的想象。这其中包括阿里巴巴集团和<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>等都贡献了相当可观的开源项目。 因此，这次遇到杨冰时，我就开源方面和他深入聊了……",
+          "user": {
+            "id": 942697,
+            "nickname": "Linux技术",
+            "slug": "d3773c994c54",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/942697/24264bb1eb61.gif"
+          },
+          "notebook": {
+            "id": 1917256,
+            "name": "开源热点"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 1,
+          "views_count": 1096,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-02-18T14:23:40.000Z"
+        },
+        {
+          "id": 26403240,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>CEO彭蕾要去lazada，华为奋斗者协议现真身",
+          "slug": "08f6db0673e7",
+          "content": "……<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>即将上市，这事儿大家早就知道。不过就在上市准备工作蓄势待发之时临阵换将，让CEO井贤栋接任董事长还是有点小小的震撼。井贤栋过去一年不但完成了B轮融资，而且把2017年度的净利润做到了131…….9亿，这个成绩让他的接任众望所归。 然而彭蕾将去向何方？这位被称为马云\"最信任的人\"，历经支付宝、<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>两次创业的元老，下一站是哪里？ 今天脉脉匿名区已经有人爆料了：彭蕾已经确定将去阿里控股的东南……亚电商平台Lazada。 <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>CEO彭蕾要去lazada，华为奋斗者协议现真身 我们都知道，今年3月份的时候阿里突然增资20亿美元，把对Lazada的持股比例上升到了83%。可见在业务上来说，阿里对……",
+          "user": {
+            "id": 1730203,
+            "nickname": "科技看点",
+            "slug": "c5fec6e4f727",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/1730203/fa897185a7b1.jpg"
+          },
+          "notebook": {
+            "id": 3543810,
+            "name": "科技资讯"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 1221,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-04-09T12:31:31.000Z"
+        },
+        {
+          "id": 50793856,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em> Service Mesh 落地实践与挑战",
+          "slug": "0cf4c01a98f9",
+          "content": "……本文整理自 GIAC（GLOBAL INTERNET ARCHITECTURE CONFERENCE）全球互联网架构大会，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>平台数据技术事业群技术专家石建伟（花名：卓与）的分享。分享基于…… Service Mesh 的理念，结合<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>内部实际场景，将中间件、数据层、安全层等能力从应用中剥离出来后下沉至独立的 Sidecar SOFAMosn 中，结合 Kubernetes 运维体系，提供……应用无感知的情况下升级基础设施层能力的案例。 本次分享将从以如下次序展开进行： <em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>当前的服务化现状 在看<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的服务化架构之前我们先从一个简单的服务化调用示例说起，下图是 SOFARPC 基本……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 120,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-07-17T07:44:39.000Z"
+        },
+        {
+          "id": 27765153,
+          "title": "送财密码：<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>估值1500亿美元！A+H股同时上",
+          "slug": "7640c919c2b3",
+          "content": "……去年春节，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>要上市的消息就不绝于耳，一方面大家关注上市后的马云是否有望成“马首富”，另一方面对于上市的时间也是扑朔迷离。 2月1日，阿里巴巴与<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>联合宣布，双方根据2014年签署的战略协议……，经阿里巴巴董事会批准，阿里巴巴将通过一家中国子公司入股，并获得<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>33%的股权，并终止当前与<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的利润分享协议。 这一举动，对于<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>而言具有十分重要的意义，也是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>IPO的关键一步……的风险，企业家“契约精神”一时间成为热点话题，阿里巴巴的声誉也受到影响。 两年后2011年7月24日，阿里巴巴集团、雅虎及软银就支付宝股权转让事件正式签署协议，而这场变更，也成为了日后<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>上市的……",
+          "user": {
+            "id": 9708721,
+            "nickname": "送财密码",
+            "slug": "ef820d577cd6",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/9708721/ea12392f-ad48-4611-8c9d-7c7b0b1dc8da.jpg"
+          },
+          "notebook": {
+            "id": 20312665,
+            "name": "送财密码"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 767,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-05-08T04:15:10.000Z"
+        },
+        {
+          "id": 22306305,
+          "title": "38亿撬动3000亿！央行约谈<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>，借呗花呗或巨变……",
+          "slug": "68d78f46b575",
+          "content": "……导读：近日据外媒消息称，央行与<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>会面，讨论<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>消费金融业务高杠杆问题，引发广泛关注。 当下，很多中国人都为无现金的概念、支付宝等各种新的支付工具和模式骄傲。前一段时间，一个法国小帅哥呼吁……存在感。但是，你想过没，就是这个大家很稀罕，很方便的支付宝也摊上事儿了！ 近日，路透社援引知情人士报道称，中国人民银行多位官员已与<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>会面，讨论<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>消费金融业务高杠杆问题。消息人士表示，在<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em>……<em class='search-result-highlight'>服</em>降低杠杆水平之前，中国央行可能会阻止<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>发行新的消费贷款证券。此外，两名知情消息人士向路透表示，在中国政府公布新规之际，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>默默撤回了价值数十亿美元的ABS(资产支持证券)产品发行计划。对此……",
+          "user": {
+            "id": 8313067,
+            "nickname": "小胖子解忧杂货店",
+            "slug": "a678f02d99a0",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/8313067/4f68f1d2-6938-4d35-b9b4-d6368b4f0d86.jpg"
+          },
+          "notebook": {
+            "id": 17341420,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 1,
+          "likes_count": 2,
+          "views_count": 3569,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-01-09T07:57:39.000Z"
+        },
+        {
+          "id": 41980271,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>智能推荐引擎解决方案与实践",
+          "slug": "c0eaceb1ceee",
+          "content": "……摘要：以“数字金融新原力(The New Force of Digital Finance)”为主题，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>ATEC城市峰会于2019年1月4日上海如期举办。金融智能专场分论坛上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em>服人工智能……部高级技术专家王志勇做了主题为《<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>智能推荐引擎》的精彩分享。 演讲中，王志勇代表<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>首次向公众介绍了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>智能推荐引擎，分享了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>利用人工智能和大数据能力在推荐引擎上沉淀的大量经验，并……方面： 一、 <em class='search-result-highlight'>蚂蚁</em>的业务场景 二、 <em class='search-result-highlight'>蚂蚁</em>智能推荐实践 三、 智能推荐解决方案 一、<em class='search-result-highlight'>蚂蚁</em>的业务场景 <em class='search-result-highlight'>蚂蚁</em>业务的进化<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的业务进化主要经历了在线化、数据化和智能化三个阶段的发展和演进过程。 到了2013……",
+          "user": {
+            "id": 15779393,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>技术",
+            "slug": "fd490e4f570d",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/15779393/0acd49d4-d43f-4151-879c-6d3e6fb87acf.png"
+          },
+          "notebook": {
+            "id": 33096947,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 7,
+          "views_count": 723,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-02-25T13:21:46.000Z"
+        },
+        {
+          "id": 9054879,
+          "title": "专注技术，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的拨乱反正和百度金融的咬定青山",
+          "slug": "51f767c2e8f5",
+          "content": "……一直被传即将上市的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>终于又有了新的大动作。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>高层宣布，未来“<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>未来会只做Tech（技术），支持金融机构去做好Fin（金融）。外部很多声音解读称，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>放弃社交，专注金融和技术……。这里面或许有百度金融等其他品牌的影响，《财经》杂志甚至用了这样一个标题来表达这种改变——《对社交不再执念，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>宣布未来只做技术》。这种解读当然有些偏颇，但某种程度上也在表明着<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的改变。尤其是在……生活圈风波之后，这种改变来的尤为彻底。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>所谓的“techFin”到底是什么？在说<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的改变之前，必须提到“techFin”这个词。早在今年1月生活圈风波之后，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>CEO井贤栋就曾在公开……",
+          "user": {
+            "id": 256225,
+            "nickname": "深几度",
+            "slug": "0a755a846da6",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/256225/7c5c12bcc51f.jpeg"
+          },
+          "notebook": {
+            "id": 526625,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 10927,
+          "total_rewards_count": 0,
+          "first_shared_at": "2017-03-24T09:10:55.000Z"
+        }
+      ],
+      "related_users": [],
+      "more_related_users": null,
+      "related_collections": [],
+      "more_related_collections": null
+    },
+    {
+      "q": "蚂蚁金服",
+      "page": 6,
+      "type": "note",
+      "total_count": 85273,
+      "per_page": 10,
+      "total_pages": 100,
+      "order_by": "default",
+      "entries": [
+        {
+          "id": 36467730,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>区块链乌镇获奖, 区块链商业落地进入井喷期",
+          "slug": "62872500c9cd",
+          "content": "……分量。 值得注意的是，本次唯一的区块链奖项颁发给了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>自主可控的“金融级商用区块链平台”获得了该奖项，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>董事长兼CEO井贤栋列举了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>区块链在民生、商业、金融等各领域的应用，其……表示，基于区块链的商业落地正在越来越快。 同样的观点，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>副总蒋国飞同样在今年的云栖大会上有所阐述，其表示区块链商用时代正在加速到来，速度比想象来得快。 这几年关于各种ICO骗局，数字货币的暴涨暴跌……的新闻层出不穷，也夺走了大部分人对于区块链的关注焦点，真正商业落地却鲜有关注，本次<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>区块链的得奖，则终于让区块链的正规商业化获得了应有的关注。 大多数人也开始看到，在经历过数年的蛰伏之后，区块链……",
+          "user": {
+            "id": 6408,
+            "nickname": "首席发言者",
+            "slug": "GHvMYb",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/6408/51273890-667e-439b-b499-7994ddf1ddef.jpg"
+          },
+          "notebook": {
+            "id": 33767,
+            "name": "科技与未来"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 1001,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-11-08T09:20:29.000Z"
+        },
+        {
+          "id": 27826033,
+          "title": "2018-05-09全球最大独角兽<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>为何今年开始亏损？",
+          "slug": "1b46a8fb59e2",
+          "content": "……刚刚公布的阿里财报，马云和刚刚上任的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>董事长井贤栋可能有些紧张了——去年赚了131.89亿元，今年开年第一季度却出现了亏损。 阿里最新利润情况让人有些担忧。2018年第一个季度，其收入为619……亿，同比增长61%，净利润却只有66.41亿，同比下滑33%。 为何突然利润大幅下滑？究其根本，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>不给力。 财报解释：2018年第一个季度，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>继续加大投资，从而实现了用户的强劲获取和参与……，这些投资导致<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>本季度出现净亏损。 而前一段时间，华尔街传来的消息，巴克莱对<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的估值为1500亿美元。 巴克莱对<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的估值核心逻辑很简单——用户量以及用户在<em class='search-result-highlight'>蚂蚁</em>的金融场景贡献的利润……",
+          "user": {
+            "id": 9064916,
+            "nickname": "李雪华讲电商",
+            "slug": "8c3ae93574aa",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/9064916/efa63d18-acd0-406d-9e2e-09eb3bf68b2a.jpg"
+          },
+          "notebook": {
+            "id": 18917715,
+            "name": "每日电商资讯"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 1,
+          "views_count": 1032,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-05-09T08:33:17.000Z"
+        },
+        {
+          "id": 48691683,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>OceanBase商业化资深总监韩鸿源：数据库是技术能力，云是使用方式，两者不应是竞争关系",
+          "slug": "b1500ed67c5e",
+          "content": "……韩鸿源，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>资深总监，目前主要负责<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>分布式数据库产品 OceanBase 的商业推广和生态建设。 OceanBase 在 2019 年 DTCC 中国数据库技术年度评选中获得“年度最佳创新…… IT168 这样具备行业技术基础和公信力的媒体机构来做针对整个数据库行业的评选，其实可以简化客户在选择方面的复杂性，是一件很有意义的事情。 在数据库这件事情上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>其实持续做了很长时间的投入。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>……的副 CTO 胡喜在很多场合讲过这样一句话，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的科技能力是我们信仰的一种体现，也就是说，技术上的理想主义，加上家国情怀，鼓舞着我们持续地在技术领域不断地创新。 金融行业最关心的是什么 韩鸿源……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 436,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-06-14T02:58:29.000Z"
+        },
+        {
+          "id": 25778043,
+          "title": "厉害了，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>！创造了中国自己的数据库OceanBase（下）",
+          "slug": "d5591d13e9f8",
+          "content": "……技术成就：划时代的分布式数据库 通过核心业务的不断上线，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>帮助OceanBase渡过了自研基础软件产品最艰难的应用关。OceanBase不只是被研发出来的，更是被用出来的，是在生产系统中被磨练……出来的。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>作为互联网金融的标杆企业，也通过OceanBase的应用，于2017年真正实现了所有核心业务100%去商业数据库，这对整个金融体系来说都是具有里程碑意义的事件。 今天的……OceanBase已经支持了阿里巴巴/<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>数百个关键业务的执行，其中有很多业务已经稳定的运行了多年。2017年天猫双十一，支付宝创造了25.6万笔每秒支付峰值的业界新纪录，这对于数据库来说，意味着每秒需要同时运行……",
+          "user": {
+            "id": 2509688,
+            "nickname": "阿里云云栖社区",
+            "slug": "12532d36e4da",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/2509688/835abb69-1f97-4d23-93c8-07ab122d124e.jpg"
+          },
+          "notebook": {
+            "id": 5185065,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 2,
+          "likes_count": 29,
+          "views_count": 2924,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-03-27T04:55:25.000Z"
+        },
+        {
+          "id": 30667214,
+          "title": "《<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>：科技金融独角兽的崛起》听书笔记",
+          "slug": "e354fb0c4cf8",
+          "content": "……在中国，支付宝（其母公司为<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>）是一个家喻户晓的品牌。我们在用手机扫码支付，或者用余额宝理财的时候，一定会和支付宝发生关系。但是很多人不知道，支付宝的母公司叫作“<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>”。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>不仅有支付宝……，还有余额宝、网商银行、芝麻信用等一系列产品和服务。成立于2004年、起始于支付宝的<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>集团，如今已经是全球估值最高的科技金融企业。然而，在成立之初，它只是淘宝网的结算部门，员工只有区区几人，记账……用的是简单的电子表格。短短十几年中，它从支付领域起步，进入金融行业，并用数据和技术改变了中国金融业的面貌。 《<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>》全景式地描述了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>创业的关键历程，记录了马云在公司发展过程中四次关键性的表态……",
+          "user": {
+            "id": 11019696,
+            "nickname": "梦想oO天堂",
+            "slug": "328d5e7ed704",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/11019696/1b4a25ab-1628-4605-b7c4-e30b9e04b434"
+          },
+          "notebook": {
+            "id": 23063347,
+            "name": "心得体会"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 2,
+          "views_count": 1120,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-07-10T06:50:59.000Z"
+        },
+        {
+          "id": 50743752,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em> SOFAStack 团队：开源不是一锤子买卖 | 码云封面人物第 16 期",
+          "slug": "2d103431f889",
+          "content": "……本期嘉宾： SOFAStack 团队：包括余淮、善逝、丞一、碧远等人。 SOFAStack：<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>自主研发的金融级分布式架构，包含了构建金融级云原生架构所需的各个组件，是在金融场景里锤炼出来的最佳……实践，其中 SOFABoot、SOFARPC、SOFABolt 等三个组件获得码云 GVP 。 团队与协作 大家先做个自我介绍吧 余淮：我是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>高级技术专家章耿，花名余淮。2007 年毕业后，先后……参与国网招投标平台的系统开发、国网电子商务平台开发。2012 年加入京东从事中间件开发，先后参加了京东服务框架 SAF 和 JSF 的建设，到后来负责服务与框架组。 2016 年底，加入<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>中间件……",
+          "user": {
+            "id": 6857037,
+            "nickname": "码云Gitee",
+            "slug": "f84f7927e7c1",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/6857037/23e82b49-e1c6-4b6a-b277-3e3b3736f3ea.jpg"
+          },
+          "notebook": {
+            "id": 14285936,
+            "name": "放码云间"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 2,
+          "views_count": 206,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-07-16T11:06:53.000Z"
+        },
+        {
+          "id": 38687522,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>自主研发的三地五中心异地多活解决方案获金融科技创新大奖",
+          "slug": "18ef58919f01",
+          "content": "……小<em class='search-result-highlight'>蚂蚁</em>说： 2018年9月20日，在杭州云栖<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em> ATEC 科技大会主论坛上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>副CTO胡喜正式宣布，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的金融科技正式全面开放，为行业提供完整的数字金融解决方案。包括支付宝自主研发的……运行正常的机房，并且能做到数据保持一致且零丢失。 12月20日，在北京举行的“2018中国金融科技年会暨金融科技及服务优秀奖颁奖典礼”正式宣布<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>自主研发的三地五中心异地多活解决方案获“2018年……公司，金融科技公司，以及信息产业界的200多家单位共计300余名代表与会。会上，中国金融电子化公司总经理、《金融电子化》杂志社社长张永福宣布，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>自主研发的三地五中心异地多活解决方案获“2018年度……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 1980,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-12-21T08:27:55.000Z"
+        },
+        {
+          "id": 14800096,
+          "title": "刷一笔支付宝背后需要多少系统支持？<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>技术大牛分享",
+          "slug": "a9050a3e6006",
+          "content": "……二维码支付已经成了国内移动支付主流。谁都可以拿出手机，轻松地扫码，买一瓶矿泉水，或者一份早点。扫码支付的整个过程看似简单，其实背后有需要极高的服务能力支持。 2017年朗迪中国峰会期间，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>首席……技术架构师胡喜，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em>服人工智能部技术总监盛子夏，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>基础技术部技术总监杨冰，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>微贷事业部技术总监沈孝栋出现在现场。四位技术大牛各自做了主题演讲，从不同角度讲解了<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>技术部门鲜为人知的……工作经验。四位从演讲内容不仅有“秀肌肉”和“谈梦想”，也有<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>技术积累经验和技术发展历史回顾。 习以为常的扫码支付背后：挑战巨大 把一次扫码支付拆开来看。 每个人在支付宝都有一个ID，ID作为用户……",
+          "user": {
+            "id": 6204863,
+            "nickname": "恻隐之心_6bfd",
+            "slug": "b814395b0736",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/6204863/7ec2492e-2c4b-48f6-908d-6369e6f7ec10"
+          },
+          "notebook": {
+            "id": 12914545,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 2,
+          "views_count": 10288,
+          "total_rewards_count": 0,
+          "first_shared_at": "2017-07-20T07:53:33.000Z"
+        },
+        {
+          "id": 36678478,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>首席数据科学家漆远：AI技术开放，与业界融合共创",
+          "slug": "25a6a0c5828c",
+          "content": "……小<em class='search-result-highlight'>蚂蚁</em>说：11月8日，在第五届世界互联网大会－《人工智能：融合发展新机遇》论坛上，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>副总裁、首席数据科学家漆远认为AI具有控制风险、降本增效和提升用户体验三大作用。 11月8日，第五届世界互联……网大会－《人工智能：融合发展新机遇》论坛顺利举行，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>副总裁、首席数据科学家漆远发表了关于AI的精彩观点。本文是精彩摘要。 漆远以<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>为例，指出AI的作用是非常重要的。第一，可以通过AI控制……控制。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>的微贷310模式就是通过AI进行风险控制的很好的例子。“通过AI，<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>可以做到3秒贷款申请，1秒做决定，而且0人工。<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>通过自研的AI技术，多维分析借贷问题，比如关联度、用户数据……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 1098,
+          "total_rewards_count": 0,
+          "first_shared_at": "2018-11-13T04:49:44.000Z"
+        },
+        {
+          "id": 48055659,
+          "title": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>首席架构师何昌华：开源SQLFlow是牛刀初试，实时大数据系统才是未来基石",
+          "slug": "281fddc73548",
+          "content": "……开源 SQLFlow，反哺业界，同时小小秀出 AI 肌肉。 这就是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>近日开源首个将 SQL 应用于 AI 引擎项目SQLFlow后，业界给出的反应。 SQLFlow，把艰深的 AI 与简单的…… SQL 结合起来，大大简化了数据工程师使用 AI 技术的门槛。 而研发出 SQLFlow 的，正是<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>计算存储首席架构师何昌华带领下的 AI Infra 团队。 何昌华斯坦福博士毕业，先在…… Google 总部工作 7 年，赢得过公司最高技术奖项，其后又在独角兽 Airbnb 工作 2 年，负责后台系统的应用架构。 2017 年 5 月，他正式加盟<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>，担任计算存储首席架构师，并在 2018……",
+          "user": {
+            "id": 14789228,
+            "nickname": "<em class='search-result-highlight'>蚂蚁</em><em class='search-result-highlight'>金</em><em class='search-result-highlight'>服</em>科技",
+            "slug": "7f1b21e4cf3a",
+            "avatar_url": "http://upload.jianshu.io/users/upload_avatars/14789228/b5dc53b0-62a5-4c55-9822-4b5d500d2a3c.jpg"
+          },
+          "notebook": {
+            "id": 31015360,
+            "name": "日记本"
+          },
+          "commentable": true,
+          "public_comments_count": 0,
+          "likes_count": 0,
+          "views_count": 394,
+          "total_rewards_count": 0,
+          "first_shared_at": "2019-06-03T04:24:39.000Z"
+        }
+      ],
+      "related_users": [],
+      "more_related_users": null,
+      "related_collections": [],
+      "more_related_collections": null
+    }
+  ]
+}
